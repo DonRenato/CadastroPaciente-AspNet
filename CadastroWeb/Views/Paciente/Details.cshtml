@@ -1,0 +1,120 @@
+﻿@model PacienteDominio.Entidades.Paciente
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+            <dl class="dl-horizontal">
+                @if (Model.Imagem != null)
+                {
+                    <dt>
+                        Imagem
+                    </dt>
+                    <dd>
+                        <img src="@Url.Action("ExibirImagem", "Arquivo", new { id = Model.PacienteID})" width="150" height="150" />
+                    </dd>
+                }
+                else
+                {
+                    <dt>
+                        Imagem
+                    </dt>
+                    <dd>
+                        <img src="~/Imagens/images.png" width="150" height="150" />
+                    </dd>
+                }
+                <dt>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Sobrenome)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Sobrenome)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Endereço)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Endereço)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Telefone)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Telefone)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Whatsapp)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Whatsapp)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.RG)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.RG)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CPF)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CPF)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Indicação)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Indicação)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Dentista)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Dentista)
+                </dd>
+                <dd>
+                </dd>
+                <dd>
+                    @Html.ActionLink("Editar", "Edit", null, new { id = Model.PacienteID }, new { @class = "btn btn-success" }) | @Html.ActionLink("Retornar", "Catalogo", null, new { @class = "btn btn-primary" })
+                </dd>
+
+
+
+            </dl>
+        
+
+        <p>
+                
+        </p>
+    

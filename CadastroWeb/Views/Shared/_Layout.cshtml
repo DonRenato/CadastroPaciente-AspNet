@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo de Pacientes</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/EstiloMac.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+            <div class="container">
+            @*<div class="navbar navbar-inverse">
+
+                <img src="~/Imagens/nerd-rage21.jpg" width="500" height="150" />
+            </div>*@
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#"></a>
+                    </div>
+                    <div> 
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a id="Catalogo" href="@Url.Action("Catalogo")">Início</a></li>
+                            <li><a id="Agenda"  href="@Url.Action("Agendamento")">Agenda</a></li>
+                            <li><a id="Agendar Consulta" href="@Url.Action("CreateConsulta")">Agendar Consulta</a></li>
+                            <li><a id="Criar Paciente" href="@Url.Action("CreateLogado")">Cadastro</a></li>
+                            <li><a id="Busca" href="@Url.Action("PesquisaLogado")">Busca</a></li>
+                            <li><a id="Criar Senha" href="@Url.Action("CreateSenha")">Criar senha</a></li>
+                            <li><a id="Buscar Senha" href="@Url.Action("Segurança")">Buscar senha</a></li>
+                            @*<li><a href="#">Contato</a></li>*@
+                         </ul>
+                    </div>
+                </div>
+            </nav>
+                <div class="row panel">
+                   
+                    </div>
+                    <div class="col-xs-8">
+                        @if (TempData["mensagem"] != null)
+                        {
+                            <div class="alert alert-success">@TempData["mensagem"]</div>
+                        }
+                        @RenderBody()
+                    </div>
+                </div>
+    
+  </body>
+</html>
+
+
+
+
+

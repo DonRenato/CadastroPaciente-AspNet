@@ -1,0 +1,50 @@
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.dll
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.xml
+E:\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\CadastroPaciente\ClassLibrary1\obj\Debug\PacienteDominio.csproj.CoreCompileInputs.cache
+E:\CadastroPaciente\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\CadastroPaciente\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\obj\Debug\PacienteDominio.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\obj\Debug\PacienteDominio.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\obj\Debug\PacienteDominio.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\obj\Debug\PacienteDominio.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

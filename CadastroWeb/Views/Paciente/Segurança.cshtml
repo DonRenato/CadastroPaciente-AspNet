@@ -1,0 +1,54 @@
+﻿@model PacienteDominio.Entidades.Usuario
+
+@{
+    ViewBag.Title = "Usuario";
+    WebGrid grid = new WebGrid(canPage: false, canSort: false);
+    grid.Bind(Model.Usuarios, autoSortAndPage: false);
+
+
+}
+
+
+@using (Html.BeginForm())
+{
+
+
+
+    <form class="form-horizontal" role="form">
+        <table class="table">
+            <tr>
+                <td>Login</td>
+
+                <td>@Html.TextBoxFor(model => model.NomeUsuario)</td>
+            </tr>
+            <tr>
+                
+                <td></td>
+                <td><input type="submit" value="Pesquisar" class="btn btn-success" /></td>
+            </tr>
+
+
+        </table>
+    </form>
+}
+
+
+@grid.GetHtml(
+        tableStyle: "webGrid",
+        htmlAttributes: new { id = "checkableGrid" },
+        fillEmptyRows: true,
+        alternatingRowStyle: "alt",
+        headerStyle: "grid-header",
+        footerStyle: "foot-grid",
+        caption: "",
+        mode: WebGridPagerModes.All,
+        emptyRowCellValue: null,
+        columns: new[]{
+            grid.Column("NomeUsuario", header: "Login", style:"text-align-left"),
+               grid.Column("Senha", header: "Senha"),
+               grid.Column("", header: "Ações", format:@<text>@Html.ActionLink("Editar", "EditSenha", new {id = item.ID})  |
+                                                              @Html.ActionLink("Deletar", "DeleteSenha", new {id = item.ID}) </text>                                              
+               
+
+
+)})

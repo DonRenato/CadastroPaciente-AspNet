@@ -1,0 +1,89 @@
+﻿@model PacienteDominio.Entidades.Paciente
+
+
+@{
+    ViewBag.Title = "Paciente";
+    WebGrid grid = new WebGrid(canPage: false, canSort: false);
+    grid.Bind(Model.Pacientes, autoSortAndPage: false);
+
+
+}
+
+
+        @using (Html.BeginForm())
+        {
+            <form class="form-horizontal" role="form">
+                <h4>Pesquisa de Pacientes</h4>
+                
+                <table class="table">
+                    <tr>
+                        <td>Nome</td>
+
+                        <td>@Html.TextBoxFor(model => model.Nome)</td>
+                    </tr>
+                    <tr>
+                        <td>CPF</td>
+                        <td>@Html.TextBoxFor(model => model.CPF)</td>
+                    </tr>
+                    <tr>
+                        <td>Dentista</td>
+                        <td>@Html.TextBoxFor(model => model.Dentista)</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="submit" value="Pesquisar" class="btn btn-success" /></td>
+                    </tr>    
+                    
+                         
+                </table>
+@*<div class="form-group">
+    <div class="col-md-offset-2 col-md-10">
+        
+        <hr />
+    </div>
+</div>*@
+            
+            </form>
+            <h4 >Resultado da Busca: </h4>
+            ViewBag.Title = "Pacientes";
+
+
+        }
+
+               
+                   @grid.GetHtml(
+        tableStyle: "webGrid",
+        htmlAttributes: new { id = "checkableGrid" },
+        fillEmptyRows: true,
+        alternatingRowStyle: "alt",
+        headerStyle: "grid-header",
+        footerStyle: "foot-grid",
+        caption:"",
+        mode: WebGridPagerModes.All,
+        emptyRowCellValue: null,
+        columns: new[]{
+            grid.Column("Nome", header: "Nome ", style:"text-align-left"),
+            grid.Column("Sobrenome", header: "Sobrenome ", style:"text-align-left"),
+               grid.Column("Telefone", header: "Telefone "),
+               grid.Column("Whatsapp", header: "Whatsapp "),
+               grid.Column("CPF", header: "CPF "),
+               grid.Column("Dentista", header: "Dentista"),
+               grid.Column("", header: "Ações", format:@<text>@Html.ActionLink("Detalhes", "Details", new { id = item.PacienteID })</text>
+
+
+)})
+               
+                    
+        
+                      
+
+
+
+               
+           
+
+        
+            
+        
+        
+

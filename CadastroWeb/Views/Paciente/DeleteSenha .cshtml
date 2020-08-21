@@ -1,0 +1,39 @@
+﻿@model PacienteDominio.Entidades.Usuario
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3>Você quer mesmo deletar este item?</h3>
+    <div>
+        <h4>Senha</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.NomeUsuario)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Senha)
+            </dd>
+    
+            
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Deletar Senha" class="btn btn-danger" /> |
+                @Html.ActionLink("Retornar", "Catalogo")
+            </div>
+        }
+    </div>
+</body>
+</html>

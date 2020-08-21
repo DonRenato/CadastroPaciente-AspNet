@@ -1,0 +1,321 @@
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\csc.exe
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\csc.exe.config
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\csc.rsp
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\csi.exe
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\csi.rsp
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.AppContext.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.exe
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.exe.config
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.rsp
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\VBCSCompiler.exe
+E:\CadastroPaciente\CadastroWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\CadastroPaciente\CadastroWeb\bin\CadastroWeb.dll.config
+E:\CadastroPaciente\CadastroWeb\bin\CadastroWeb.dll
+E:\CadastroPaciente\CadastroWeb\bin\CadastroWeb.pdb
+E:\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.dll
+E:\CadastroPaciente\CadastroWeb\bin\EntityFramework.dll
+E:\CadastroPaciente\CadastroWeb\bin\EntityFramework.SqlServer.dll
+E:\CadastroPaciente\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CadastroPaciente\CadastroWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Helpers.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Mvc.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Razor.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Deployment.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.dll
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Razor.dll
+E:\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.pdb
+E:\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.dll.config
+E:\CadastroPaciente\CadastroWeb\bin\EntityFramework.xml
+E:\CadastroPaciente\CadastroWeb\bin\EntityFramework.SqlServer.xml
+E:\CadastroPaciente\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Razor.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Deployment.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Razor.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Helpers.xml
+E:\CadastroPaciente\CadastroWeb\bin\System.Web.Mvc.xml
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Razor.resources.dll
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.resources.dll
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Helpers.resources.dll
+E:\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Mvc.resources.dll
+E:\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.csprojResolveAssemblyReference.cache
+E:\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.csproj.CoreCompileInputs.cache
+E:\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.dll
+E:\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\csc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\csc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\csc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\csi.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\csi.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\vbc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\CadastroWeb.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Helpers.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Helpers.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\System.Web.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.csprojResolveAssemblyReference.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\obj\Debug\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\PagedList.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\PagedList.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\PagedList.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente\CadastroWeb\bin\PagedList.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\csc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\csc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\csc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\csi.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\csi.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\vbc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\vbc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\vbc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\CadastroWeb.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\PagedList.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\PagedList.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Helpers.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\PagedList.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\PagedList.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Helpers.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\System.Web.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\obj\Debug\CadastroWeb.csprojResolveAssemblyReference.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\obj\Debug\CadastroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\obj\Debug\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (2)\CadastroWeb\obj\Debug\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\csc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\csc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\csc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\csi.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\csi.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\vbc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\vbc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\vbc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\CadastroWeb.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\PagedList.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\PagedList.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Helpers.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\PagedList.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\PagedList.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Helpers.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\System.Web.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\obj\Debug\CadastroWeb.csprojResolveAssemblyReference.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\obj\Debug\CadastroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\obj\Debug\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - Copia (3) - Copia\CadastroWeb\obj\Debug\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\csc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\csc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\csc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\csi.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\csi.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\vbc.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\vbc.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\vbc.rsp
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\CadastroWeb.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\CadastroWeb.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\ClassLibrary1.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\EntityFramework.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\PagedList.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\PagedList.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Helpers.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Mvc.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\ClassLibrary1.pdb
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\ClassLibrary1.dll.config
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\EntityFramework.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\PagedList.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\PagedList.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Helpers.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\System.Web.Mvc.xml
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\obj\Debug\CadastroWeb.csprojResolveAssemblyReference.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\obj\Debug\CadastroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\obj\Debug\CadastroWeb.dll
+C:\Users\Seo Darthinho\Desktop\CadastroPaciente - FINAL\CadastroWeb\obj\Debug\CadastroWeb.pdb

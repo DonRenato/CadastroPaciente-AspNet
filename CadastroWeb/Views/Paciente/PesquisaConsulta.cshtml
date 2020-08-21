@@ -1,0 +1,71 @@
+﻿@model PacienteDominio.Entidades.Consulta
+
+@{
+    ViewBag.Title = "Consulta";
+    WebGrid grid = new WebGrid(canPage: false, canSort: false);
+    grid.Bind(Model.Consultas, autoSortAndPage: false);
+
+
+}
+
+
+@using (Html.BeginForm())
+{
+    <form class="form-horizontal" role="form">
+        <h4>Pesquisa de Consultas</h4>
+
+        <table class="table">
+            <tr>
+                <td>Paciente</td>
+
+                <td>@Html.TextBoxFor(model => model.Paciente)</td>
+            </tr>
+            <tr>
+                <td>Data</td>
+                <td>@Html.TextBoxFor(model => model.Dia)</td>
+            </tr>
+            <tr>
+                <td>Dentista</td>
+                <td>@Html.TextBoxFor(model => model.Dentista)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Pesquisar" class="btn btn-success" />
+                </td>
+            </tr>
+
+
+        </table>
+        @*<div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+
+                    <hr />
+                </div>
+            </div>*@
+
+    </form>
+
+
+}
+
+
+@grid.GetHtml(
+        tableStyle: "webGrid",
+        htmlAttributes: new { id = "checkableGrid" },
+        fillEmptyRows: true,
+        alternatingRowStyle: "alt",
+        headerStyle: "grid-header",
+        footerStyle: "foot-grid",
+        caption: "",
+        mode: WebGridPagerModes.All,
+        emptyRowCellValue: null,
+        columns: new[]{
+            grid.Column("Dia", header: "Dia ", style:"text-align-left"),
+               grid.Column("Hora", header: "Hora "),
+               grid.Column("Paciente", header: "Paciente "),
+               grid.Column("Dentista", header: "Dentista"),
+               grid.Column("", header: "Ações", format:@<text>@Html.ActionLink("Detalhes", "Details", new { id = item.AtendimentoID })</text>
+
+
+)})

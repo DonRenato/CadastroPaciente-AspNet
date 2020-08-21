@@ -1,0 +1,90 @@
+﻿@model IEnumerable<PacienteDominio.Entidades.Paciente>
+
+
+  
+
+
+
+
+    <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Endereço)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Telefone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Whatsapp)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RG)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CPF)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Indicação)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Dentista)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Imagem)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ImagemTipo)
+                </th>
+                <th></th>
+            </tr>
+
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Endereço)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Whatsapp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RG)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Indicação)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dentista)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Imagem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImagemTipo)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.PacienteID }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.PacienteID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.PacienteID })
+                </td>
+            </tr>
+        }
+
+        </table>

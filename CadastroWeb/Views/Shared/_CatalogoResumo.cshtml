@@ -1,0 +1,62 @@
+﻿
+
+
+
+        
+
+        <table>
+            <tr>
+                <td><h2>Bem vindo a Central Dente!!!!</h2></td>
+                <td><h4>Catálogo de Pacientes</h4></td>
+            </tr>
+            <tr>
+                <td rowspan="3">
+                    @if (Model.Imagem != null)
+                    {
+                        <div class="pull-left" style="margin-right:10px">
+                            <img class="img-thumbnail" src="@Url.Action("ExibirImagem","arquivo", new {id=Model.PacienteID})"width="150" height="150" />
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="pull-left" style="margin-right:10px">
+                            <img class="img-thumbnail" src="~/Imagens/images.png" width="150" height="150" />
+
+                        </div>
+                    }
+                         
+</td>
+                <td>
+                    <a class="btn btn-primary btn-large">
+                        <strong>@Model.Nome</strong>
+                    </a>
+                    <a class="btn btn-primary btn-large">
+                        <strong>@Model.Sobrenome</strong>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Model.Telefone
+                    <br />
+                    @Model.Dentista
+                    <br />
+                    @Model.Email
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="btn-group">
+                        
+                            @Html.ActionLink("Editar", "Edit", new { id = Model.PacienteID }, new { @class ="btn btn-success" })
+                        
+                            @Html.ActionLink("Detalhes", "Details", new { id = Model.PacienteID }, new { @class = "btn btn-primary" })
+                        
+                            @Html.ActionLink("Deletar", "Delete", new { id = Model.PacienteID }, new { @class = "btn btn-danger" })
+                        
+                    </div>
+                </td>
+            </tr>
+        </table>
+  
+

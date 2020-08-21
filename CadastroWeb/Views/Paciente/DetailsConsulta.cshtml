@@ -1,0 +1,56 @@
+﻿@model PacienteDominio.Entidades.Consulta
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Consulta</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Paciente)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Paciente)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Dentista)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Dentista)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Dia)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Dia)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Hora)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Hora)
+            </dd>
+            <dd>
+            </dd>
+            <dd>@Html.ActionLink("Editar", "EditConsulta", null, new { id = Model.AtendimentoID }, new { @class = "btn btn-success" }) | @Html.ActionLink("Retornar", "Agendamento", null, new { @class = "btn btn-primary" })</dd>
+        </dl>
+    </div>
+    <p>
+        
+</body>
+</html>
